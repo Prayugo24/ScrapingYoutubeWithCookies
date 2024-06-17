@@ -1,6 +1,6 @@
 # ScrapingYoutubeWithCookies
 
-YOUTUBE BOT API Starter Pack
+YOUTUBE BOT SCRAPING Starter Pack
 
 ## Getting started Installation
 
